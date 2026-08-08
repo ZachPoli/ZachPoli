@@ -9,8 +9,8 @@ I earned my bachelor's degree from Southern New Hampshire University and complet
 
 ## What I'm Building Now
 
-### Career Command Center
-A local-first career workflow application that discovers and verifies job postings, ranks opportunities against candidate evidence, tracks applications, analyzes ATS fit, and generates evidence-based tailored resumes. The system combines job discovery, structured evidence, resume versioning, and a feedback loop for improving match quality.
+### [Career Command Center — Public Case Study](projects/career-command-center.md)
+A local-first career workflow application that discovers and verifies job postings, ranks opportunities against candidate evidence, tracks applications, analyzes ATS fit, and generates evidence-based tailored resumes. The system combines job discovery, structured evidence, resume versioning, and an external-feedback loop for improving match quality.
 
 **Core ideas:** Python, SQLite, OpenAI API/web search, document generation, ATS analysis, workflow automation, evidence traceability.
 
